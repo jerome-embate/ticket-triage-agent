@@ -1,0 +1,10 @@
+.venv
+__pycache__
+**/__pycache__
+*.py[oc]
+.git
+.gitignore
+.env
+Dockerfile
+.dockerignore
+.python-version
